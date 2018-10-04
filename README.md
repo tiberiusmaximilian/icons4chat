@@ -7,12 +7,12 @@ I was thinking 16x16 with transparent backgrounds. File format doesn't matter to
 - User options ... A gear
 - Rules ... An exclamation point in a triangle
 - Help ... A question mark in a circle
-- Server settings ... Not sure. Another gear? Different somehow?
-- Clear chat ... Not sure
-- Logout ... An X
-- User info ... A lowercase i in a circle
-- Kick user ... Not sure
-- Ban user ... Not sure
+- Server settings ... Not sure. Another gear? Different somehow? (*showing racks and a gear*)
+- Clear chat ... Not sure *an erasure*
+- Logout ... An X *an exit door*
+- User info ... A lowercase i in a circle (*an  8-figure with an i*)
+- Kick user ... Not sure (*a yellow 8-figure with red cross*)
+- Ban user ... Not sure (*a red 8-figure with black cross*)
 
 #### Toggle Icons: (these should follow a pattern; like glowing vs. dim)
 - Chat open ... A glowing circle. Maybe blue?
